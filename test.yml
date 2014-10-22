@@ -1,0 +1,2 @@
+- hosts: myhost
+  roles: "{{ myroles }}"
